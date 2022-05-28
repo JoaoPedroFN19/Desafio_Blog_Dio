@@ -52,7 +52,7 @@ h2 {
 
 a:hover {
     color: white;
-    background-color: MediumAquaMarine;
+    background-color: auto;
 }
 
 @keyframes backgroundTransition {
@@ -183,7 +183,7 @@ a:hover {
 }
 
 #toggle:checked+.checkbox {
-    background-color: darkcyan;
+    background-color: auto;
 }
 
 #toggle:checked~.menu {
